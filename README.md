@@ -1,1 +1,1 @@
-# Magic Tech - Data scientist assessment - Starter code
+# Magic Tech - Data scientist assessment solution- Starter code
